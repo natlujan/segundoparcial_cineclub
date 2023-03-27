@@ -1,0 +1,22 @@
+
+
+.line-3 {
+    height: 5px;
+    width: 20%;
+    background: #0a0b18;
+    margin-bottom: 20px;
+  }
+
+  .btnFondoColor{
+    /* background-color: #d7daf5; */
+    border-color: #d7daf5;
+    border: 2px solid;
+  }
+
+  h1,h2,h3,h4,h5,h6, span, p, label {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+  .fuenteFormulario {
+    font-size: 1.5rem;
+  }

@@ -1,0 +1,84 @@
+.contenido {
+    margin: 10px auto ;
+}
+
+.menu {
+    text-align: right;
+    margin-right: 80px;
+  }
+
+.menuColor {
+    background-color: #0a0b18;
+}
+
+.menuTexto {
+    color: white;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menuTitulo {
+    color: white;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menuTexto:active {
+    color: white;
+}
+
+.menuTexto:visited {
+    color: white;
+}
+
+.menuTexto:hover {
+    color: white;
+}
+
+.activo {
+    color:#0a0b18;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.activo:hover {
+    color:#0a0b18;
+}
+
+.activo:visited {
+    color:#0a0b18;
+}
+
+.activo:active {
+    color:#0a0b18;
+}
+
+.btnFondo {
+    background-color: #302765;
+    border-radius: 20px;
+}
+
+.fotoPelicula {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.card {
+    height: 500px;
+    width: fit-content;
+    padding-bottom: 10px;
+    border:none;
+}
+
+h1,h2,h3,h4,h5,h6, span, p, label {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.line-1 {
+    height: 5px;
+    width: 8%;
+    background: #0a0b18;
+    margin-bottom: 20px;
+  }
